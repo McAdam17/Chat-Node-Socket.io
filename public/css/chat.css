@@ -1,0 +1,13 @@
+.chat-list {
+    overflow-y: scroll;
+    -webkit-overflow-scrolling: touch;
+    height: 300px !important;
+}
+
+.fix-header .page-wrapper {
+    padding-top: 0px;
+}
+
+textarea {
+    width: 100%;
+}
